@@ -69,8 +69,8 @@ function displayExpenses() {
       <td>${expense.date}</td>
       
       <td class="actions">
-        <button onclick="editExpense(${i})">Edit</button>
-        <button onclick="deleteExpense(${i})">Delete</button>
+        <button onclick="editExpense(${i})"><i class="fa-regular fa-pen-to-square" style="color: #d77d42;"></i></button>
+        <button onclick="deleteExpense(${i})"><i class="fa-solid fa-trash" style="color: #e8994f;"></i></button>
       </td>
     `;
 
