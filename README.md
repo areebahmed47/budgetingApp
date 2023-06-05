@@ -1,2 +1,2 @@
 # budgetingApp
-This is project help you to maintain your monthly budget
+This project will help you to maintain your monthly budget
